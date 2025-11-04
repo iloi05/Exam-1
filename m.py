@@ -26,5 +26,5 @@ print(list_of_names(scores)) #should print [['Chavez','Julio'],['Navratilov','Ma
 
 print(student_hw_avg(scores, id=12))    #should print 86.25 
 
-print(class_hw_avg(scores, hw_index=0))    #should print 83.25 
+print(class_hw_avg(scores, hw_index=1))    #should print 83.25 
 
